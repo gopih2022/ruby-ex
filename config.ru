@@ -267,7 +267,7 @@ pre {
 
 <pre>$ git clone &lt;git_url&gt; &lt;directory_to_create&gt;
 
-# Within your project directory
+# Within your project folder
 # Commit your changes and push to OpenShift
 
 $ git commit -a -m 'Some commit message'
